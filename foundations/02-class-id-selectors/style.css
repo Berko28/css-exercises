@@ -8,11 +8,10 @@
 
 }
 
-.FirstClass.Testing{
+.Testing{
     font-size:20px;
 }
 #SecondID{
     background-color: green;
     font-weight: bold;
-    font-size: 20px;
 }
